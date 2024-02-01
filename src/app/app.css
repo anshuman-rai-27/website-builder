@@ -10,3 +10,10 @@
     height: 100%;
     margin: 2vw;
   }
+  .cont{
+    display: flex;
+  }
+  #blocks{
+    height: 48vw !important;
+    width: 20vw !important;
+  }

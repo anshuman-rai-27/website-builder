@@ -36,7 +36,7 @@ const GrapesJSComponent = () => {
   }, []); // Run this effect only once on component mount
 
   return (
-    <div>
+    <div className='cont'>
       <div id="blocks"></div>
       <div id="gjs"></div>
     </div>
