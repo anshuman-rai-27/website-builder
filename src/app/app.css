@@ -17,3 +17,13 @@
     height: 48vw !important;
     width: 20vw !important;
   }
+  .save{
+    position: absolute;
+    height: 2vw;
+    width: 5vw;
+    right: 1vw;
+    z-index: 2;
+    border: solid;
+    color: white;
+    background-color: #444;
+  }
